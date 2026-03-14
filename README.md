@@ -37,3 +37,5 @@ En cuanto a las atenciones por emergencia de IPRESS en el año 2021:
 - Los establecimientos públicos atendieron la mayor proporción de emergencias.
 
 # Visualizaciones en Power BI
+
+## ![Overview Atenciones por IPRESS](dashboards/overviews/Overview_AtencionesPorIPRESS.png)
