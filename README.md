@@ -1,7 +1,7 @@
 # Análisis de Atención de Emergencias en IPRESS del Perú (Business Intelligence)
 Análisis de la base de datos pública sobre emergencias IPRESS ocurridas en 2021, BD extraída del sitio web de SUSALUD. Proyecto realizado durante mi 9no ciclo de la universidad.
 
-**Descripción del proyecto**
+##**Descripción del proyecto
 Este proyecto de Business Intelligence analiza la producción asistencial en servicios de emergencia en el Perú durante el año 2021 utilizando datos abiertos de SUSALUD.
 El objetivo es identificar patrones de atención, distribución de pacientes y diferencias regionales que puedan apoyar la toma de decisiones en el sistema de salud.
 
