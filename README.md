@@ -39,3 +39,6 @@ En cuanto a las atenciones por emergencia de IPRESS en el año 2021:
 # Visualizaciones en Power BI
 
 ## ![Overview Atenciones por IPRESS](dashboards/overviews/Overview_AtencionesPorIPRESS.png)
+## ![Overview Atenciones por Sexo y Edad](dashboards/overviews/Overview_PacientesPorSexoYEdad.png)
+## ![Overview Atenciones por Región](dashboards/overviews/Overview_AtencionesPorRegion.png)
+## ![Overview Rendimiento por Categoría del IPRESS](dashboards/overviews/Overview_RendimientoPorCategoríaDeIPRESS.png)
