@@ -1,0 +1,3 @@
+Aquí se muestra la forma primitiva de los datos extraídos del sitio web de SUSALUD. Obtenido en archivo .csv desde:
+http://datos.susalud.gob.pe/dataset/consulta-c1-produccion-asistencial-en-emergencia-por-ipress
+
